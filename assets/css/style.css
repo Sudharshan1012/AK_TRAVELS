@@ -1,0 +1,55 @@
+header{
+    padding: 50px 80px;
+}
+body{
+    overflow: hidden;
+    font-family: 'Poppins', sans-serif;                 
+}
+img{
+    padding-left: 10%;
+    padding-bottom: 50%;
+    width: 700px;
+    height: 500px;
+}
+button{
+    background-color: #FFC200;
+    padding: 15px 30px;
+    font-size: 18px;
+    border-style: none;
+    display: inline;
+    float: right;
+    margin: 0px 13px;
+}
+span{
+    font-size: 25px;
+}
+.sign span{
+    color: #7EBAD2;
+    margin-left: 40px;
+    margin-bottom: 0% ;
+
+}
+.sign{
+    float: right;
+    margin-right: 140px;
+    margin-top: 70px;
+}
+.but{
+    background-color: #FFC200;
+    border-radius: 8px;
+   padding: 1px 55px ;
+   margin: 12px 10px 0px 0px;
+   border-style: none;
+    color: black;
+}
+input{
+    width: 200px;
+    height: 40px;
+    border-radius: 18px;
+    border-color: #f2f2f2;
+    outline:none;
+    font-family: "Poppins",sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 0px 0px 10px 20px;
+}
